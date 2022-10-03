@@ -1,0 +1,7 @@
+SHORT??? - genre is short so short video becomes movie
+https://www.imdb.com/title/tt15684770/?ref_=nm_flmg_act_9
+
+
+Ändra values till float? så det funkar i excel!
+
+lägg till commands!!
